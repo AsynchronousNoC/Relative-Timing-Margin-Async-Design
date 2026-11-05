@@ -1,0 +1,5 @@
++incdir+${LOGICAL_PATH}/VarExperiment/include +libext+.v+.sv
+-y ${LOGICAL_PATH}/sample_lib
+${LOGICAL_PATH}/VarExperiment/verilog/pipeline.sv
+
+

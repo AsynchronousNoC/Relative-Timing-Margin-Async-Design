@@ -1,0 +1,14 @@
+`ifndef chimes
+`define CHIMES 1
+`define NUM_EXPS 7
+`define DELAY_CTRL_BITS 2
+`define DATAPATH_WIDTH 65
+
+//The following cells can be substituted to technology map to a specific library
+`define IP_DRIVER    PAD_DRIVER_I
+`define IO_DRIVER    PAD_DRIVER_IO
+`define LOGIC_BUFFER BUFFER
+`define LOGIC_MUX4   MUX4
+`define LOGIC_XNOR2  XNOR2
+`define LOGIC_INV    INV
+`endif

@@ -1,0 +1,5 @@
++incdir+${LOGICAL_PATH}/VarExperiment/include +libext+.v+.sv
+-f ${LOGICAL_PATH}/VE_block.vc
+${LOGICAL_PATH}/VarExperiment/verilog/varExperiment_top.sv
+
+

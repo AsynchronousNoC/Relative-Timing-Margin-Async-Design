@@ -1,0 +1,2 @@
++incdir+${LOGICAL_PATH}/VarExperiment/include +libext+.v+.sv
+${LOGICAL_PATH}/VarExperiment/testbenches/varExperiment_top_tb.sv
